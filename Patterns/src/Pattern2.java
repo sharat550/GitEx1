@@ -17,16 +17,8 @@ public class Pattern2 {
 			{
 				System.out.print(j+" ");
 			}
-<<<<<<< HEAD
-			System.out.println("Vaishnav's Changes");
-			System.out.println("Sharath Change");
-			System.out.println("Sharath's Changes are,kl,l, changed");
-			System.out.println("committed");
-
-=======
 			System.out.println("Vaishnav's Changes");
 			System.out.println("Sharath's Changes");
->>>>>>> refs/remotes/origin/master
 			
 		}
 		for(int j=n-1;j>=1;j--)
