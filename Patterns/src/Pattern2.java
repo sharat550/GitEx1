@@ -15,9 +15,10 @@ public class Pattern2 {
 		{
 			for(int j=1;j<=i;j++)
 			{
-				System.out.print(j+" Blah");
+				System.out.print(j+" ");
 			}
 			System.out.println("Vaishnav's Changes");
+			System.out.println("Sharath's Changes");
 			
 		}
 		for(int j=n-1;j>=1;j--)
