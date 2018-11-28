@@ -18,6 +18,7 @@ public class Pattern2 {
 				System.out.print(j+" ");
 			}
 			System.out.println("Vaishnav's Changes");
+			System.out.println("Sharath's Changes");
 			
 		}
 		for(int j=n-1;j>=1;j--)
