@@ -6,6 +6,9 @@ public class Pattern2 {
 	{
 		Scanner sc=new Scanner(System.in);
 		
+		int testVariable;
+		
+		//Scan for input
 		int n=sc.nextInt();
 		
 		for(int i=1;i<=n;i++)
