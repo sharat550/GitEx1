@@ -28,6 +28,7 @@ public class Pattern2 {
 			System.out.print(k+" ");
 		}
 		System.out.println();
+	        System.out.println("Line added for pull req");		
 		}
 	}
 
