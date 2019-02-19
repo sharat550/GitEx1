@@ -13,7 +13,7 @@ public class HelloController extends AbstractController{
 	{
 		ModelAndView model = new ModelAndView("HelloPage");
 		model.addObject("welcomemessage", "Hi user welcome to the spring app");
-		
+		System.out.println("Hi ");
 		return model;
 	}
 }
